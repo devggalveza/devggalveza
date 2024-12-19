@@ -1,7 +1,5 @@
 # ¡Hola, soy Gerson Galvez! 👋
 
----
-
 ### 🗒 Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo: Inteligencia Artificial y sus aplicaciones en el desarrollo de software.
