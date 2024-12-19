@@ -1,7 +1,5 @@
 # ¡Hola, soy Gerson Galvez! 👋
 
-Desarrollador .NET con más de 5 años de experiencia, apasionado por el ecosistema front-end utilizando React, Next.js, TailwindCSS y otras tecnologías web modernas. Me encanta aprender nuevas herramientas que agilicen el trabajo y estoy incursionando en el fascinante mundo de la Inteligencia Artificial.
-
 ---
 
 ### 🗒 Sobre mí
