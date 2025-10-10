@@ -36,6 +36,6 @@
 
 - Correo: devggalveza@gmail.com
 - LinkedIn: [[Gerson Galvez]](https://www.linkedin.com/in/devgersongalveza/)
-- Página web/Portafolio: [[Web]](https://codenetflow.com/)
+- Página web/Portafolio: [[Web]](https://cv.kodealab.dev)
 
 
