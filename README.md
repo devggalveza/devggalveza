@@ -2,9 +2,11 @@
 
 ### 🗒 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo: Inteligencia Artificial y sus aplicaciones en el desarrollo de software.
-- 👯 Me gustaría colaborar en: Proyectos que requieran optimización de backend con .NET y/o mejoramiento de UI/UX con React y Next.js.
-- ⚡ Dato curioso: Siempre estoy buscando la próxima tecnología o biblioteca que pueda agilizar mis tareas y mejorar la calidad de mis entregas.
+- 🌱 Desarrollador Fullstack .NET con 5+ años en aplicaciones web empresariales.
+Participo en el desarrollo y mantenimiento de sistemas en producción,
+trabajando en front-end, back-end y base de datos según las necesidades del
+proyecto. Me apasiona mantenerme al día con nuevas tecnologías y asumir
+retos que impulsen mi crecimiento personal y profesional.
 
 ---
 
