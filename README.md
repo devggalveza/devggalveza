@@ -2,7 +2,7 @@
 
 ### 🗒 Sobre mí
 
-- 🌱 Desarrollador Fullstack .NET con 5+ años en aplicaciones web empresariales.
+🌱 Desarrollador Fullstack .NET con 5+ años en aplicaciones web empresariales.
 Participo en el desarrollo y mantenimiento de sistemas en producción,
 trabajando en front-end, back-end y base de datos según las necesidades del
 proyecto. Me apasiona mantenerme al día con nuevas tecnologías y asumir
